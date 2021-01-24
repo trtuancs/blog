@@ -66,4 +66,4 @@ defaults:
     values:
       layout: "post"
       
-permalink: http://edgardicode.github.io/
+permalink: "/edgardicode.github.io"
